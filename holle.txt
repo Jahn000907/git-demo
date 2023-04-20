@@ -29,3 +29,4 @@ hello nihao
 master
 hot-fix
 xiugai
+isgithub
